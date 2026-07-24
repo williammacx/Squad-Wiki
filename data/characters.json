@@ -1,22 +1,20 @@
 [
   {
-    "id":"aric",
+    "id":"wagner",
 
-    "name":"Aric Stormblade",
+    "name":"Chris Wagner",
 
     "image":"../images/placeholder.png",
 
-    "species":"Human",
+    "species":"Wagistani",
 
-    "age":"27",
+    "birthday":"27",
 
-    "occupation":"Knight",
+    "occupation":"Booze Peddler",
 
-    "affiliation":"Silver Order",
+    "affiliation":"Squad",
 
-    "status":"Alive",
-
-    "weapon":"Stormblade",
+    "alignment":"Good",
 
     "quote":"The storm answers only those with unwavering resolve.",
 
@@ -24,7 +22,7 @@
 
     "personality":"Brave, loyal, humble and determined.",
 
-    "biography":"Aric was born in a farming village before joining the Silver Order.",
+    "biography":"...",
 
     "abilities":[
       "Master Swordsmanship",
