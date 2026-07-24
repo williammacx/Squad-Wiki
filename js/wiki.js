@@ -1,20 +1,24 @@
 async function load(id,file){
 
-const response=await fetch(file);
+const response = await fetch(file);
 
-const html=await response.text();
+const html = await response.text();
 
-document.getElementById(id).innerHTML=html;
+document.getElementById(id).innerHTML = html;
 
 }
 
+const path = window.location.pathname;
+
+const root = path.includes("/pages/") ? "../" : "";
+
 (async()=>{
 
-await load("header","templates/header.html");
+await load("header", root + "templates/header.html");
 
-await load("sidebar","templates/sidebar.html");
+await load("sidebar", root + "templates/sidebar.html");
 
-await load("footer","templates/footer.html");
+await load("footer", root + "templates/footer.html");
 
 const button=document.getElementById("darkButton");
 
