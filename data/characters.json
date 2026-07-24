@@ -1,0 +1,48 @@
+[
+  {
+    "id":"aric",
+
+    "name":"Aric Stormblade",
+
+    "image":"../images/placeholder.png",
+
+    "species":"Human",
+
+    "age":"27",
+
+    "occupation":"Knight",
+
+    "affiliation":"Silver Order",
+
+    "status":"Alive",
+
+    "weapon":"Stormblade",
+
+    "quote":"The storm answers only those with unwavering resolve.",
+
+    "appearance":"Aric wears polished silver armor decorated with lightning patterns.",
+
+    "personality":"Brave, loyal, humble and determined.",
+
+    "biography":"Aric was born in a farming village before joining the Silver Order.",
+
+    "abilities":[
+      "Master Swordsmanship",
+      "Lightning Magic",
+      "Leadership",
+      "Expert Horseman"
+    ],
+
+    "equipment":[
+      "Stormblade",
+      "Silver Armor",
+      "Royal Shield"
+    ],
+
+    "trivia":[
+      "Left-handed",
+      "Owns a horse named Tempest",
+      "Favorite food is apple pie"
+    ]
+  }
+]
