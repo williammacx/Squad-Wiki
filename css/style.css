@@ -155,3 +155,67 @@ min-height:auto;
 }
 
 }
+
+.infobox{
+
+float:right;
+
+width:300px;
+
+background:#f8f9fa;
+
+border:1px solid #aaa;
+
+margin-left:30px;
+
+margin-bottom:20px;
+
+}
+
+.infobox img{
+
+width:100%;
+
+}
+
+.infobox table{
+
+width:100%;
+
+border-collapse:collapse;
+
+}
+
+.infobox td{
+
+padding:8px;
+
+border:1px solid #ddd;
+
+}
+
+.toc{
+
+background:#f8f9fa;
+
+border:1px solid #ccc;
+
+padding:15px;
+
+margin-bottom:25px;
+
+width:300px;
+
+}
+
+blockquote{
+
+border-left:5px solid #3366cc;
+
+padding-left:15px;
+
+font-style:italic;
+
+margin:20px 0;
+
+}
